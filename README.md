@@ -15,7 +15,7 @@
 | **Written On** | June 24, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/wo-der-wind-uns-hinfuhrt/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Obtain a Music License for Wo der Wind uns hinführt](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/wo-der-wind-uns-hinfuhrt/) |
+| **Get License** | [Request Licensing for Wo der Wind uns hinführt](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/wo-der-wind-uns-hinfuhrt/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -110,7 +110,7 @@ This song is an original creative work by Abu Sayed. All lyrics, melody, and com
 |:-------------------|:------------|
 | **Author** | Abu Sayed |
 | **Version** | `v1` |
-| **SHA-256 Hash** | `N/A` |
+| **SHA-256 Hash** | `736873902c428a4f997d91321513df5a8d3b18197af76d68a7091455fa5ba20c` |
 | **Timestamp** | June 30, 2026 |
 
 See [LICENSE.md](./LICENSE.md) for full terms and conditions.

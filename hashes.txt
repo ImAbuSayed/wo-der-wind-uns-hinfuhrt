@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Wo der Wind uns hinführt
+
+This log tracks the cryptographic history and versioning for the song **Wo der Wind uns hinführt** (wo-der-wind-uns-hinfuhrt).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-06-30T04:30:50.840544 | `v1` | `736873902c428a4f997d91321513df5a8d3b18197af76d68a7091455fa5ba20c` | `d685cca8f1251cd8885e2e3cec4f69de9d72a234e010898f79ccce6b3ddb40e8` | `2026-06-30_wo-der-wind-uns-hinfuhrt-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*
