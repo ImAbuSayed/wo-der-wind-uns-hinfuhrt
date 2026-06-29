@@ -15,7 +15,7 @@
 | **Written On** | June 24, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/wo-der-wind-uns-hinfuhrt/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Commercial Licensing for Wo der Wind uns hinführt](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/wo-der-wind-uns-hinfuhrt/) |
+| **Get License** | [Obtain a Music License for Wo der Wind uns hinführt](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/wo-der-wind-uns-hinfuhrt/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> Nachts um zwei, der Bass zieht tief durch die Straßen, yeah
+> Rote Lichter, Baby, wir können nicht mehr warten, no
+> Dein Blick sagt mehr als tausend Worte tief im Club
+> Wir sind allein hier, kein Limit, nur pure Lust
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
